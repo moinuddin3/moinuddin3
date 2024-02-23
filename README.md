@@ -49,10 +49,6 @@ _India_
   - Interactive course modules with multimedia content
   - Personalized learning paths and progress tracking
   - Collaborative features for group projects and discussions
-- **Roadmap:** 
-  - Q1: Enhance gamification elements to increase user engagement
-  - Q2: Integrate virtual reality (VR) simulations for immersive learning experiences
-  - Q3: Expand content library with industry-specific courses
 
 ### Mobile and iOS Apps
 - **Description:** Oversaw the development of mobile and iOS applications catering to diverse user needs.
