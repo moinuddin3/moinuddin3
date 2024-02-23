@@ -1,8 +1,8 @@
-# Welcome to My GitHub Profile!
+# Hello 🚀
 
 I am a seasoned product and project manager with extensive experience in leading telecom, e-learning, and mobile app projects. With a track record of successful planning, execution, and cross-functional collaboration, I specialize in driving product innovation and delivering exceptional user experiences.
 
-## Work History
+## Work History 📋
 
 ### Co-Founder and CEO
 **BlueInvent Technologies**  
@@ -29,7 +29,7 @@ _India_
 - Served as Assistant Manager for Corporate Relations at OutworX Corporation.
 - Contributed to corporate relationship management for the company.
 
-## Skills
+## Skills 🛠️
 
 ### Telecom 
 - **Description:** Led the development of a next-generation telecommunications solution aimed at improving network efficiency and customer experience.
@@ -38,7 +38,7 @@ _India_
   - Real-time monitoring and analytics dashboard
   - Enhanced customer support tools
   - Wholesale and Retail Switch
-  - CPaaS, CCaaS, OmniChannel Contact Cetre
+  - CPaaS, CCaaS, OmniChannel Contact Center
   - Conferencing Solutions
   - Teleco grade solution
   - Enhancing major SBC functionality
@@ -57,15 +57,15 @@ _India_
   - Integration with backend APIs for real-time data synchronization
   - Robust security features to safeguard user data
 
-## Collaboration Highlights
+## Collaboration Highlights 🤝
+
 - Collaborated closely with engineering managers to ensure timely delivery of high-quality products.
 - Aligned with sales managers to understand market demands and tailor product strategies accordingly.
 - Fostered cross-team collaboration to optimize resource utilization and maximize project efficiency.
 
-## Contact
+## Contact 📬
 For inquiries or collaboration opportunities, feel free to reach out to me via:
 - Email: [moin@blueinvent.com](mailto:moin@blueinvent.com)
 - LinkedIn: [Moin](https://www.linkedin.com/in/enterprisesolutionexpert/)
 
-Let's connect and create impactful products together!
-
+Let's connect and create impactful products together! 🌟
