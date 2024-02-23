@@ -1,6 +1,6 @@
 # Hello 🚀
 
-I am a seasoned product and project manager with extensive experience in leading telecom, e-learning, and mobile app projects. With a track record of successful planning, execution, and cross-functional collaboration, I specialize in driving product innovation and delivering exceptional user experiences.
+I am a seasoned leader and entrepreneur with a strong background in driving innovation across telecom, e-learning, and mobile app domains. Currently serving as the Co-founder & CEO at BlueInvent Technologies, I lead a talented team in delivering impactful solutions. Let's connect and create together! 🌟
 
 ## Work History 📋
 
